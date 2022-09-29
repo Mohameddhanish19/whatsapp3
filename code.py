@@ -1,2 +1,2 @@
 #print("Hello, World!")
-print("Cheers, hostelmate!")
+print("Cheers, mate!")
